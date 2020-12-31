@@ -38,7 +38,7 @@
 
 ### What are some limitations of this dataset? 
 
-#### The limitations of the Analysis is that many factors are contributing to the success of the campaign. Arriving to results based on just one or two factors does have its limitations. 
+#### The limitations of the Analysis is that many factors are contributing to the success of the campaign. Arriving to results based on just one or two factors does not give a clear picture. 
 
 ### What are some other possible tables and/or graphs that we could create?
 
