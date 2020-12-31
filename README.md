@@ -4,19 +4,15 @@
 
 ### The Purpose of the project is to help Louise Understand how Theatre and Play campaigns faired  in relation to their launch dates and their funding goals. This will help Louise better understand how these factors contribute to the success of a respective campaign.
 
-###The Background here is that Louise's play Fever was unsuccessful to achieve its goal and hence she wants to understand what factors contribute to the success of a campaign, Therefore, putting her in a better position to achieve success for her next campaign.
+### The Background here is that Louise's play Fever was unsuccessful to achieve its goal and hence she wants to understand what factors contribute to the success of a campaign, Therefore, putting her in a better position to achieve success for her next campaign.
 
 ## Analysis and Challenges
 
-### The task at hand is to help Louise understand the the impact of two factors, **Launch date ** and **Funding goals** to the success of a campaign.
-
-## Analysis of Outcomes Based on Launch Date
+#### The task at hand is to help Louise understand the the impact of two factors, **Launch date ** and **Funding goals** to the success of a campaign.
  
-### For the first task of analyzing the effects of **Launch date** on the **outcome**, I used a pivot chart to plot a line diagram that represents the corelation. The line chart [Theatre_ouctome_vs_goals] (https://github.com/arjunkannawar/Kickstarter-Analysis/blob/main/resources/Theater_ouctome_vs_Launch.png) helps to analyze this scenario.
+#### For the first task of analyzing the effects of **Launch date** on the **outcome**, I used a pivot chart to plot a line diagram that represents the corelation. The line chart [Theatre_ouctome_vs_goals] (https://github.com/arjunkannawar/Kickstarter-Analysis/blob/main/resources/Theater_ouctome_vs_Launch.png) helps to analyze this scenario.
 
-## Analysis of Outcomes Based on Goals
-
-### For the second task, I have coupled the goal amounts into ranges to see how each range of goal impacts the outcome of a play campaign.
+#### For the second task, I have coupled the goal amounts into ranges to see how each range of goal impacts the outcome of a play campaign. The Line chart [Outcome_vs_goals] (https://github.com/arjunkannawar/Kickstarter-Analysis/blob/main/resources/Outcome_vs_goals.png) exhibits the analysis.
 
 ## Challenges and Difficulties Encountered
 
@@ -24,7 +20,7 @@
 
 ## Results
 
-###What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 #### The Line chart [Theatre_ouctome_vs_launch] (https://github.com/arjunkannawar/Kickstarter-Analysis/blob/main/resources/Theater_ouctome_vs_Launch.png) helps to deduce the following conclusions: 
 
