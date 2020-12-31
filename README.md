@@ -1,4 +1,4 @@
-# Module 1 Challenge
+# Module 1 Challenge - Analysis
 
 ## Overview of Project
 
@@ -14,7 +14,7 @@
 
 #### For the second task, I have coupled the goal amounts into ranges to see how each range of goal impacts the outcome of a play campaign. The Line chart [Outcome_vs_goals] (https://github.com/arjunkannawar/Kickstarter-Analysis/blob/main/resources/Outcome_vs_goals.png) exhibits the analysis.
 
-## Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 
 #### While using the ***Countifs*** function, the function does not consider a Filtered table as an input. This function will ignore the filters applied to a table while providing the results. The workaround is to not filter the table and provide the filtering criteria as the input to the function.
 
