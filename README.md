@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-#### The Purpose of the project is to help Louise Understand how Theatre and Play campaigns faired  in relation to their launch dates and their funding goals. This will help Louise better understand how these factors contribute to the success of a respective campaign.
+####      The Purpose of the project is to help Louise Understand how Theatre and Play campaigns faired  in relation to their launch dates and their funding goals. This will help Louise better understand how these factors contribute to the success of a respective campaign.
 
 #### The Background here is that Louise's play Fever was unsuccessful to achieve its goal and hence she wants to understand what factors contribute to the success of a campaign, Therefore, putting her in a better position to achieve success for her next campaign.
 
